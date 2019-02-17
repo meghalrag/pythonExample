@@ -1,0 +1,5 @@
+num1=input("enter the 1st num")
+num2=input("enter the 2nd num")
+num1=int(num1)
+num2=int(num2)
+print("diffference is",num1-num2)
